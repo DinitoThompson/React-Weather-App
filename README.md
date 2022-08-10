@@ -1,3 +1,7 @@
+# Weather React Application 
+
+Makes pull request from TheOpenWeatherApp, renders specific data to the screen and displays different backgrounds depending on the weather. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
